@@ -1,0 +1,13 @@
+/* css untuk histori penarikan */
+.navbar {
+    width: 360px !important;
+    height: 131px !important;
+    
+    background-color:#86B6F6;
+    border-radius: 10px !important; /* Mengatur border-radius menjadi 10px */
+}
+.navbar h2 {
+    margin-top: 25px !important; /* Mengatur jarak teks ke bawah */
+    font-size: 1.5rem !important; /* Mengecilkan ukuran font h2 */
+}
+
