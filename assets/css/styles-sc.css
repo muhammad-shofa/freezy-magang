@@ -1,0 +1,29 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* untuk halaman login */
+/* tetapi secara keseluruhan hanya mengambil class nya saja */
+
+.kecil {
+    font-size: 12px;
+}
+
+.btn-masuk {
+    background-color: #86B6F6;
+}
+
+.btn-masuk:hover {
+    background-color: #7ca7e0;
+}
+
+.btn-masuk:active {
+    background-color: #7ca7e0;
+}
+
+.bg-myBiru {
+    background-color: #86B6F6;
+    width: 432px;
+    height: 400px;
+    z-index: -1;
+}
