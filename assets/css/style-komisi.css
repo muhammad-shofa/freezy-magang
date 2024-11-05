@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Sacramento&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  max-width: 360px;
+  margin: auto;
+  background-color: #fcfdff;
+  font-family: "Montserrat", system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    sans-serif;
+  overflow-x: hidden;
+}
+
+.title svg {
+  height: 100px;
+}
+
+.title h1 {
+  margin-top: -70px;
+  font-size: 24px;
+}
+
+.row .col {
+  height: 30px;
+}
+
+.content-col-1 {
+  background-color: #86b6f6;
+  color: white;
+  font-weight: bold;
+}
+
+.content-col-1-btn {
+  background-color: #86b6f6;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+/* .content-col-1-btn:hover {
+  border: 2px solid #86b6f6;
+  color: #86b6f6;
+  cursor: pointer;
+} */
+
+.content-col-2 {
+  border: 2px solid #86b6f6;
+  color: white;
+  line-height: 5px;
+}
+
+.row .col p {
+  line-height: 20px;
+  padding-bottom: 0;
+}
+
+.snow-1 {
+  width: max-content;
+  position: relative;
+  top: -20px;
+}
+
+.snow-2 {
+  width: max-content;
+  position: relative;
+  top: 10px;
+  right: -250px;
+}
+
+.modal-filter {
+  max-width: 333px;
+  height: 133px;
+  margin: auto;
+  z-index: 1;
+  background-color: #ffffff;
+  position: absolute;
+}
+
+/*  */
+
+.text-14 {
+  font-size: 14px;
+}
+
+.text-18 {
+  font-size: 18px;
+}
+
+.blue-1 {
+  color: #86b6f6;
+}
